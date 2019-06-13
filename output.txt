@@ -1,0 +1,6 @@
+best individual's fitness in 0th generation : 214.0648579735635
+[142, 6, 85, 82, 13, 131, 74, 5, 107, 22, 30, 35, 14, 69, 98, 95, 40, 119, 149, 145]
+Average generation's fitness 164.012389053301
+best individual's fitness in 1th generation : 214.0648579735635
+[142, 6, 85, 82, 13, 131, 74, 5, 107, 22, 30, 35, 14, 69, 98, 95, 40, 119, 149, 145]
+Average generation's fitness 170.260495196595
